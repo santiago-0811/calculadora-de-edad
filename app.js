@@ -14,5 +14,6 @@ years--;
 months += 12;
 }
 document.getElementById("result").textContent =
-`Tu tienes ${years} años, ${months} meses, y ${days} días.`;
+`Tu tienes ${years} años, ${months} meses y ${days} días.`;
+
 }
